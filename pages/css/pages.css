@@ -26,8 +26,42 @@ h2{
     padding: 30px;
 }
 
+.kleuren{
+display: block;
+}
+
 .kleur1{
-    height: 40px;
-    width: 40px;
-    color: #85D6CA;
+    height: 130px;
+    width: 130px;
+    background-color: #85D6CA;
+    color: #7C7C7C;
+    padding: 10px;
+    display: inline-block;
+}
+
+.kleur2{
+    height: 130px;
+    width: 130px;
+    background-color: #F4B5C9;
+    color: #7C7C7C;
+    padding: 10px;
+    display: inline-block;
+}
+
+.kleur3{
+    height: 130px;
+    width: 130px;
+    background-color: #7C7C7C;
+    color: #F5F5F5;
+    padding: 10px;
+    display: inline-block;
+}
+
+.kleur4{
+    height: 130px;
+    width: 130px;
+    background-color: #F5F5F5;
+    color: #7C7C7C;
+    padding: 10px;
+    display: inline-block;
 }
