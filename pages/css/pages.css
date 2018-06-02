@@ -15,4 +15,19 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+h2{
+    color: #7c7c7c;
+    text-decoration: underline;
+}
+
+.logo{
+    font-family: "just a kid";
+    font-size: 80px;
+    padding: 30px;
+}
+
+.kleur1{
+    height: 40px;
+    width: 40px;
+    color: #85D6CA;
+}
