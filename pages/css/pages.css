@@ -16,8 +16,14 @@ img {
 }
 
 h2{
+    font-family: "just a kid";
+    font-size: 60px;
+}
+
+h3{
     color: #7c7c7c;
     text-decoration: underline;
+    font-size: 30px;
 }
 
 .logo{
@@ -32,7 +38,7 @@ display: block;
 
 .kleur1{
     height: 130px;
-    width: 130px;
+    width: 150px;
     background-color: #85D6CA;
     color: #7C7C7C;
     padding: 10px;
@@ -41,7 +47,7 @@ display: block;
 
 .kleur2{
     height: 130px;
-    width: 130px;
+    width: 150px;
     background-color: #F4B5C9;
     color: #7C7C7C;
     padding: 10px;
@@ -50,7 +56,7 @@ display: block;
 
 .kleur3{
     height: 130px;
-    width: 130px;
+    width: 150px;
     background-color: #7C7C7C;
     color: #F5F5F5;
     padding: 10px;
@@ -59,9 +65,127 @@ display: block;
 
 .kleur4{
     height: 130px;
-    width: 130px;
+    width: 150px;
     background-color: #F5F5F5;
     color: #7C7C7C;
     padding: 10px;
     display: inline-block;
+}
+
+.navigatie{
+    display: block;
+}
+
+.logonavigatie{
+    display: inline-block;
+    font-family: "just a kid";
+    font-size: 40px;
+    margin-right: 180px;
+}
+
+.knopnavigatie{
+    display: inline-block;
+    font-family: bebas;
+    font-size: 20px;
+    color: #7C7C7C;
+    margin: 10px;
+}
+
+.ticketsnavigatie{
+    display: inline-block;
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #F4B5C9;
+    text-shadow: 2px 2px black;
+    width: 85px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    margin-left: 10px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knoptickets{
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #F4B5C9;
+    text-shadow: 2px 2px black;
+    width: 85px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knopgrondplan{
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #F4B5C9;
+    text-shadow: 2px 2px black;
+    width: 120px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knopvervoer{
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #F4B5C9;
+    text-shadow: 2px 2px black;
+    width: 90px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knopwebsite{
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #85D6CA;
+    text-shadow: 2px 2px black;
+    width: 280px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knopverder{
+    font-family: bebas;
+    font-size: 25px;
+    color: #F5F5F5;
+    background-color: #85D6CA;
+    text-shadow: 2px 2px black;
+    width: 110px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    border-radius: 15px;
+    box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knoppen{
+    display: block;
+}
+
+.knopextra{
+    display: inline-block;
+    margin: 30px;
+}
+
+.uitleg{
+    margin-top: 10px;
 }
