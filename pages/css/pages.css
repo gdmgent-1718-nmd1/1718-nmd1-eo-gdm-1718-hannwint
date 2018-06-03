@@ -91,6 +91,12 @@ display: block;
     margin: 10px;
 }
 
+.knopnavigatie:hover{
+    background-color: rgb(241, 241, 241);
+    height: 40px;
+    border-bottom: 1.5px solid #7C7C7C;
+}
+
 .ticketsnavigatie{
     display: inline-block;
     font-family: bebas;
@@ -107,6 +113,11 @@ display: block;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
 }
 
+.ticketsnavigatie:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
+}
+
 .knoptickets{
     font-family: bebas;
     font-size: 25px;
@@ -119,6 +130,11 @@ display: block;
     border: 1px;
     border-radius: 15px;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knoptickets:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
 }
 
 .knopgrondplan{
@@ -135,6 +151,11 @@ display: block;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
 }
 
+.knopgrondplan:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
+}
+
 .knopvervoer{
     font-family: bebas;
     font-size: 25px;
@@ -147,6 +168,11 @@ display: block;
     border: 1px;
     border-radius: 15px;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
+}
+
+.knopvervoer:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
 }
 
 .knopwebsite{
@@ -163,6 +189,11 @@ display: block;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
 }
 
+.knopwebsite:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
+}
+
 .knopverder{
     font-family: bebas;
     font-size: 25px;
@@ -177,6 +208,11 @@ display: block;
     box-shadow:2px 1px 10px rgb(167, 167, 167);
 }
 
+.knopverder:hover{
+    color: #7C7C7C;
+    text-shadow: 0px;
+}
+
 .knoppen{
     display: block;
 }
@@ -188,4 +224,41 @@ display: block;
 
 .uitleg{
     margin-top: 10px;
+}
+
+.tekst{
+    font-family: slabo;
+    font-size: 20px;
+    color: #7C7C7C;
+    line-height: 23px;
+}
+
+.tussentitels{
+    font-family: slabo;
+    font-size: 20px;
+    text-decoration: underline;
+    color: #85D6CA;
+    line-height: 23px;
+}
+
+.titels{
+    font-family: bebas;
+    font-size: 30px;
+    text-decoration: underline;
+    color: #7C7C7C;
+    line-height: 40px;
+}
+
+.navigatietekst{
+    font-family: bebas;
+    font-size: 20px;
+    color: #7C7C7C;
+}
+
+.knoppentekst{
+    font-family: bebas;
+    font-size: 25px;
+    color: rgb(235, 235, 235);
+    text-shadow: 1px 1px rgb(104, 104, 104);
+    line-height: 30px;
 }
